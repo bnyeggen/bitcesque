@@ -1,0 +1,1 @@
+Bitcesque is an embedded K/V datastore for Go, based on the [Bitcask](http://downloads.basho.com/papers/bitcask-intro.pdf) storage engine, but omitting timestamps, and not bothering to split into multiple files.
